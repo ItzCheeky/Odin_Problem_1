@@ -1,0 +1,15 @@
+.inverted, .normal{
+    font-family: 'Times New Roman', Helvetica, sans-serif;
+    font-size: 28px;
+}
+
+.normal {
+    background-color: yellow;
+    color: black;
+}
+
+.inverted {
+    background: black;
+    color: white;
+    
+}
